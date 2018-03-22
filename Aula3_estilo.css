@@ -13,3 +13,10 @@ h2 {
   text-align: center;
   border-style: dashed;
 }
+
+img{
+  position: absolute;
+  top:15%;
+  left: 2%;
+  z-index: 500;
+}
